@@ -37,14 +37,5 @@
 # output files
 *.output
 
-# make.inc
-#*.inc
-
 # Mac XCode dSYM
 *.dSYM
-
-# result
-*.txt
-example/*.txt
-example/*.sh
-example/result/*
