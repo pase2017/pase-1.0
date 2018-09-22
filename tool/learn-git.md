@@ -392,3 +392,14 @@ Resolving deltas: 100% (6/6), done.
 
 之后就可以按照前面讲的进行开发和提交了.
 
+
+### 12. 日常命令
+
+git clone git@github.com:pase2017/pase-1.0.git
+git checkout -b dev origin/dev
+git pull
+git add <files>
+git commit -m "<commits>"
+git push
+git log
+git reset --hard <commit id>
